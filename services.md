@@ -128,7 +128,8 @@ The following services are available on the Yggdrasil network, courtesy of our c
 
 - [y.yakamo.org API](http://y.yakamo.org:3000/) network research & map view of the network:
   - [Current Nodes](http://[301:4541:2f84:1188:216:3eff:feb6:65a3]:3000/current)
-  - [Discovered NodeInfo](http://[301:4541:2f84:1188:216:3eff:feb6:65a3]:3000/nodeinfo)
+  - [Discovered NodeInfo] Automatic save and file
+(http://[301:4541:2f84:1188:216:3eff:feb6:65a3]:3000/nodeinfo)
 
 ### Network Maps
 
